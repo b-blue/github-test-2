@@ -1,3 +1,3 @@
 # README
 
-Lol, lol.
+Lol.
